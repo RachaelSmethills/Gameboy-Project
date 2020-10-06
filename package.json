@@ -1,0 +1,22 @@
+{
+  "name": "gameboy-project",
+  "version": "1.0.0",
+  "description": "A small learning project to get to grips with object oriented programming",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --coverage --watchAll"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RachaelSmethills/Gameboy-Project.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RachaelSmethills/Gameboy-Project/issues"
+  },
+  "homepage": "https://github.com/RachaelSmethills/Gameboy-Project#readme",
+  "devDependencies": {
+    "jest": "^26.5.2"
+  }
+}
